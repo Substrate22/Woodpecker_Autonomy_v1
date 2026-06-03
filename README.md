@@ -7,3 +7,7 @@ This is a simple bash script that allows you to view the data flowing on the Woo
 
 ## line_following_v2: A line detection OpenCV-Python script
 This is a Python script that uses OpenCV to detect a lane marking on the ground in front of the Woodpecker and draws lines. Goal is to output steering angle and control the EPS via CAN.
+
+<img width="1531" height="973" alt="CAN monitoring" src="https://github.com/user-attachments/assets/dd2f5e58-c4d1-4beb-8d0e-d24efa574943" />
+
+<img width="940" height="542" alt="Line_detection_v2" src="https://github.com/user-attachments/assets/7e0e029f-5509-45ee-8f5c-80380d928407" />
