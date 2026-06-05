@@ -16,6 +16,7 @@ To setup, you need to install the following dependicies via:
 cd Woodpecker_Autonomy
 pip install numpy
 pip install opencv-python
+pip install matplotlib
 ```
 
 To run, type:
